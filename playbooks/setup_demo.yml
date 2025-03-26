@@ -5,7 +5,7 @@
   vars:
     ansible_python_interpreter: /usr/bin/python3
     my_organization: "Kriegcorp"
-    my_vault: "akrieger-vault"
+    my_local_vault: "akrieger-vault"
     my_rh_aap_credential: "Controller Credential"
     my_aws_credential: "AWS"
     my_aws_machine_credential: "AWS_SSH"
